@@ -1,0 +1,29 @@
+# Hugo build output
+/public/
+/resources/
+
+# Ignore Hugo themes if added as submodules
+/themes/*/
+/!themes/book/
+
+# OS and editor junk
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*~
+
+# Logs
+*.log
+
+# VS Code and JetBrains IDEs
+.vscode/
+.idea/
+
+# Node modules if using npm/yarn with assets
+node_modules/
+
+# Cache and temp
+hugo_stats.json
+.cache/
