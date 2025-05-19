@@ -1,12 +1,13 @@
 ---
 title: A Brief History of Git
+weight: 2
 ---
 
 # A Brief History of Git
 
 Every great invention has a backstory, and Git’s begins not with ambition, but with annoyance.
 
-In 2005, Linus Torvalds, the creator of the Linux kernel, built git out of frustration.
+In 2005, Linus Torvalds, the creator of the Linux kernel, built Git out of frustration.
 
 Until 2002, the Linux community had relied on patches and tarballs to pass around changes. For a project like Linux, which involved developers from all over the world, this model was unsustainable. In 2002, the community started using a distributed version control system called BitKeeper.
 
@@ -55,10 +56,10 @@ In centralized systems, only a few people had the keys to the main repository. I
 
 Anyone can fork, branch, commit, and share their ideas, and the best ideas naturally rise to the top. This model democratized open source development and changed how software is built.
 
-## 🚀 A Tool for the Future
+## 🌍 The Most Adopted Tool in Modern Software Development
 
-Today, Git powers projects from hobby apps to the Linux kernel to Fortune 500 codebases. It's the engine behind platforms like GitHub, GitLab, and Bitbucket.
+Today, Git is the most adopted tool in modern software development. It is used by individuals, open-source communities, startups, and global enterprises alike. It powers everything from small side projects to massive systems like the Linux kernel and enterprise-scale applications.
 
-What began as a reaction to the limitations of legacy tools has become the foundation of modern software development.
+Git is also the foundation behind platforms like GitHub, GitLab, and Bitbucket, enabling millions of developers to collaborate efficiently.
 
-Git didn’t just solve old problems, it **defined a new way to build together**.
+What began as a response to the limitations of older systems has become the industry standard for managing code and working together at scale.
