@@ -38,7 +38,11 @@ A crucial and universal aspect of how Git handles these objects is that every ob
 
 #### What is a hash function 
 
-A hash function takes an input and converts it into a fixed-size string. The hash function consistently produces identical hashes for identical inputs. If h(x) represents a hash function, then x1​=x2​⟹h(x1​)=h(x2​). Hash functions are also designed for strong collision resistance, meaning it should be computationally infeasible to find different inputs producing the same output.
+A hash function takes an input and converts it into a fixed-size string. The hash function consistently produces identical hashes for identical inputs. If h(x) represents a hash function, then 
+
+x1​ = x2​ => h(x1​) = h(x2​)
+
+Hash functions are also designed for strong collision resistance, meaning it should be computationally infeasible to find different inputs producing the same output.
 
 SHA-1 (Secure Hash Algorithm 1) is a cryptographic hash function that produces a 160-bit (40-character hexadecimal) hash value from any input message.
 
