@@ -1,6 +1,6 @@
 ---
 title: Git's Data Model
-weight: 5
+weight: 6
 ---
 
 # 💎 Git's Data Model: The Elegance of Simplicity
