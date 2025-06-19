@@ -10,4 +10,5 @@ if(A==B){
     else{
         print(A)        
     }
+    print(A)
 }
