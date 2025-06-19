@@ -1,8 +1,8 @@
 This is a test file
 that I will check
-if(A==B){
-    print(A)
-}
 for merge 
 conflict..
 Let's see how git handles this.
+if(A==B){
+    print(A)
+}
